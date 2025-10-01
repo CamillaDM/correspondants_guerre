@@ -1,2 +1,3 @@
 # correspondants_guerre
-Le dépôt pour le cours MA-Vorlesung
+Voilà mon travail sur "" pour l'exercice méthodologique dans le cadre du cours de ""
+# premier paragraphe
