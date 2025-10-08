@@ -1,3 +1,6 @@
 # correspondants_guerre
-Voilà mon travail sur "" pour l'exercice méthodologique dans le cadre du cours de ""
-# premier paragraphe
+Voilà mon travail sur les correspondants de guerre dans le cadre du cours "MA-Vorlesung: From information to data".
+
+<br/>
+
+* __[table of contents](documentation/home.md)__
