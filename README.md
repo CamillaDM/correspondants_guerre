@@ -3,4 +3,4 @@ Voilà mon travail sur les correspondants de guerre dans le cadre du cours "MA-V
 
 <br/>
 
-* __[table of contents](documentation/home.md)__ 
+* __[table of contents](home.md)__ 
