@@ -13,4 +13,3 @@
   * https://en.wikipedia.org/wiki/Category:War_correspondents_of_World_War_I
   * https://en.wikipedia.org/wiki/List_of_war_correspondents_in_World_War_II 
   * https://en.wikipedia.org/wiki/Category:Women_war_correspondents 
-<img width="470" height="244" alt="image" src="https://github.com/user-attachments/assets/bed57a72-7efe-40cf-be1d-282b531fb903" />
