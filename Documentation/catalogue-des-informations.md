@@ -59,4 +59,3 @@
 - personne utilise ce médium
 - personne couvre 
 - facteur(s) de reconnaissance 
-<img width="470" height="644" alt="image" src="https://github.com/user-attachments/assets/9bd83b42-16e1-45f3-8203-3d08fdc4d6c2" />
