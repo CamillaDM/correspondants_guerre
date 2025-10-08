@@ -1,7 +1,7 @@
 
 [Cf. les instructions](Catalogue-des-informations-instructions)
 
-##  Objets (avec leurs propriétés)
+##  Objets (avec leurs propriétés
 
 
 
